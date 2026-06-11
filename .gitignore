@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.txt
+nohup.out
+fonts/
+love_app.py
+keylogger.py
+minecraft.py
+hello.py
+guideminecraft
